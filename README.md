@@ -31,8 +31,12 @@ Here are some ideas to get you started:
 - Azure DevOps
 
 ## Socials
-- [Linkedin](https://www.linkedin.com/in/jmmoyadev/)
-- [Twitter](https://twitter.com/jmmoyadev)
+<p>
+  <a href="https://linkedin.com/in/jmmoyadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/jmmoyadev" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/jmmoyadev"></a>
+</p>
+
+
 
 ## Support Me
 Soon...
