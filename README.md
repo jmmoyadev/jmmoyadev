@@ -20,15 +20,16 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-- C#
+- C# 
 - NET Core
-- EF Core
 - JavaScript
 - TypeScript
 - HTML5
 - NodeJS
 - Microsoft Azure
 - Azure DevOps
+- SQL Server
+- PostgreSQL
 
 ## Socials
 <p>
