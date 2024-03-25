@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there, my mame is Jose Miguel! 👋
+
+My name is Jose Miguel, I´m a proud father and husband and software engineer. Clean Coder. A .NET Framework and Core developer with full stack background.
+
+I'm currenly working as a Senior .NET Consultant.
 
 <!--
 **jmmoyadev/jmmoyadev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +18,21 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Skills
+- C#
+- NET Core
+- EF Core
+- JavaScript
+- TypeScript
+- HTML5
+- NodeJS
+- Microsoft Azure
+- Azure DevOps
+
+## Socials
+- [Linkedin](https://www.linkedin.com/in/jmmoyadev/)
+- [Twitter](https://twitter.com/jmmoyadev)
+
+## Support Me
+Soon...
