@@ -20,16 +20,16 @@ Here are some ideas to get you started:
 -->
 
 ## Skills
-- C# 
-- NET Core
-- JavaScript
-- TypeScript
-- HTML5
-- NodeJS
-- Microsoft Azure
-- Azure DevOps
-- SQL Server
-- PostgreSQL
+
+<a><img src="/icons/icons8-c-sharp-logo.svg"/></a>
+<a><img src="/icons/icons8-.net-framework.svg"/></a>
+<a><img src="/icons/icons8-javascript.svg"/></a>
+<a><img src="/icons/icons8-typescript.svg"/></a>
+<a><img src="/icons/icons8-html5.svg"/></a>
+<a><img src="/icons/icons8-nodejs.svg"/></a>
+<a><img src="/icons/icons8-azure.svg"/></a>
+<a><img src="/icons/icons8-microsoft-sql-server.svg"/></a>
+<a><img src="/icons/icons8-postgresql.svg"/></a>
 
 ## Socials
 <p>
