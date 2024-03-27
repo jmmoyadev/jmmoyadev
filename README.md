@@ -21,15 +21,19 @@ Here are some ideas to get you started:
 
 ## Skills
 
-<a><img src="/icons/icons8-c-sharp-logo.svg"/></a>
-<a><img src="/icons/icons8-.net-framework.svg"/></a>
-<a><img src="/icons/icons8-javascript.svg"/></a>
-<a><img src="/icons/icons8-typescript.svg"/></a>
-<a><img src="/icons/icons8-html5.svg"/></a>
-<a><img src="/icons/icons8-nodejs.svg"/></a>
-<a><img src="/icons/icons8-azure.svg"/></a>
-<a><img src="/icons/icons8-microsoft-sql-server.svg"/></a>
-<a><img src="/icons/icons8-postgresql.svg"/></a>
+<a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="/icons/icons8-.net-framework.svg" alt=".NET"/></a>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="/icons/icons8-c-sharp-logo.svg" alt="C#"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="/icons/icons8-javascript.svg" alt="JavaScript"/></a> 
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="/icons/icons8-typescript.svg" alt="TypeScript"/></a> 
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="/icons/icons8-html5.svg" alt="HTML5"/></a> 
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="/icons/icons8-nodejs.svg" alt="NodeJS"/></a> 
+<a href="https://azure.microsoft.com/" target="_blank" rel="noreferrer"><img src="/icons/icons8-azure.svg" alt="Azure"/></a> 
+<a href="https://www.microsoft.com/es-es/sql-server/" target="_blank" rel="noreferrer"><img src="/icons/icons8-microsoft-sql-server.svg" alt="SQL Server"/></a> 
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="/icons/icons8-postgresql.svg" alt="PostgreSQL"/></a> 
+
+
+
+
 
 ## Socials
 <p>
