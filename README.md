@@ -33,13 +33,24 @@ Here are some ideas to get you started:
 
 
 
-
-
 ## Socials
-<p>
-  <a href="https://linkedin.com/in/jmmoyadev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-0a66c2?logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/jmmoyadev" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/twitter/follow/jmmoyadev"></a>
-</p>
+<!--<p>
+  <a href="https://linkedin.com/in/jmmoyadev" target="_blank"><img src="https://img.shields.io/badge/Connect-blue?logo=LinkedIn&style=for-the-badge"/></a>
+  <a href="https://twitter.com/jmmoyadev" target="_blank"><img alt="X (formerly Twitter) Follow" src="https://img.shields.io/badge/Follow-white?logo=x&logoColor=black&style=for-the-badge"></a>
+</p>-->
+
+<!--[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=flat)](https://linkedin.com/in/jmmoyadev)-->
+<!--[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=flat-square)](https://linkedin.com/in/jmmoyadev)-->
+<!--[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=plastic)](https://linkedin.com/in/jmmoyadev)-->
+[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=for-the-badge)](https://linkedin.com/in/jmmoyadev)  [![Twitter URL](https://img.shields.io/badge/twitter-white?logo=x&logoColor=black&style=for-the-badge)](https://twitter.com/jmmoyadev)
+<!--[![LinkedIn URL](https://img.shields.io/badge/LinkedIn-0077B5?logo=LinkedIn&style=social)](https://linkedin.com/in/jmmoyadev)-->
+
+<!--[![Twitter URL](https://img.shields.io/badge/twitter-1d9cf0?logo=x&logoColor=black&style=flat)](https://twitter.com/jmmoyadev)-->
+<!--[![Twitter URL](https://img.shields.io/badge/twitter-1d9cf0?logo=x&logoColor=black&style=flat-square)](https://twitter.com/jmmoyadev)-->
+<!--[![Twitter URL](https://img.shields.io/badge/twitter-1d9cf0?logo=x&logoColor=black&style=plastic)](https://twitter.com/jmmoyadev)-->
+
+<!--[![Twitter URL](https://img.shields.io/badge/twitter-1d9cf0?logo=x&logoColor=black&style=social)](https://twitter.com/jmmoyadev)-->
+
 
 ## Support Me
 Soon...
