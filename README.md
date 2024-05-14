@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## Skills
+## Languages and Tools
 
 <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"><img src="/icons/icons8-.net-framework.svg" alt=".NET"/></a>
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="/icons/icons8-c-sharp-logo.svg" alt="C#"/></a> 
