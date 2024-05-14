@@ -1,3 +1,5 @@
+<img src="https://github.com/jmmoyadev/jmmoyadev/blob/main/jmmoyadev_gh_header.png" alt="banner that says jmmoyadev">
+
 # Hi there, my mame is Jose Miguel! 👋
 
 My name is Jose Miguel, I´m a proud father and husband and software engineer. Clean Coder. A .NET Framework and Core developer with full stack background.
