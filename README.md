@@ -67,8 +67,6 @@ Here are some ideas to get you started:
 ## 💬 Socials
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jmmoyadev)
 
-[![TwitterL](https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge)](https://twitter.com/jmmoyadev)
-
 ![](https://komarev.com/ghpvc/?username=jmmoyadev&style=for-the-badge)
 
 ## Support Me
